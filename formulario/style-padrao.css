@@ -1,0 +1,60 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body 
+{
+    background: rgb(31, 31, 31);
+    color: whitesmoke
+}
+.painel
+{
+    position: absolute;
+    top: 5%;
+    left: 30%;
+    height: 102%;
+    width: 550px;
+    background: rgb(43, 43, 43);
+}
+img
+{
+    top: 0%;
+    height: 320px;
+    width: 100%;
+
+}
+.titulo
+{
+    position: relative;
+    top: 20px;
+    background: rgb(36, 36, 36);
+    padding: 20px;
+}
+.sub-titulo
+{
+    position: relative;
+    top: 40px;
+    background: rgb(36, 36, 36);
+    padding: 20px;
+    font-size: 16px;
+}
+.play
+{
+    position: relative;
+    top: 60px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+button
+{
+    background: rgba(216,42,42,1);
+    border: none;
+    height: 40px;
+    width: 198px;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    color: whitesmoke;
+    font-size: 20px;
+}

@@ -1,0 +1,37 @@
+@import "style-padrao.css";
+#escolha
+{
+    position: relative;
+    top: 5%;
+}
+.contador
+{
+    position: relative;
+    top: 10%;
+}
+.painel
+{
+    height: 93%;
+}
+.escolha-escura
+{
+    height: 30px;
+    background: rgb(26, 25, 25);
+    margin: 5px 20px 5px 20px;
+}
+.certo
+{
+    height: 20px;
+    background: rgb(6, 199, 54);
+    margin: 5px 20px 5px 20px;
+}
+.errado
+{
+    height: 20px;
+    background: rgb(197, 0, 0);
+    margin: 5px 20px 5px 20px;
+}
+.contador
+{
+    text-align: center;
+}
